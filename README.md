@@ -22,7 +22,7 @@ The predictions were combined with known pharmacokinetic data to estimate the co
 | `/docs/GBM_Brain_Exposure_files/` | Associated image and data assets for the HTML report. |
 
 **View the rendered report:**  
-[GBM_Brain_Exposure.html](https://jackpieters4.github.io/minor_research_project_BSB/GBM_Brain_Exposure.html)
+[GBM_Brain_Exposure.html](https://jackpieters4.github.io/minor_research_project_BSB/)
 
 ---
 
